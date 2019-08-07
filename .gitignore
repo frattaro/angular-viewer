@@ -1,0 +1,7 @@
+.DS_Store
+.nyc_output/
+.vs/
+coverage/
+dist/
+node_modules/
+cypress/screenshots/*
